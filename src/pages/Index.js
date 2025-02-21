@@ -5,10 +5,7 @@ import Main from '../layouts/Main';
 
 const Index = () => (
   <Main
-    description={
-      "Michael D'Angelo's personal website. New York based Stanford ICME graduate, "
-      + 'VP of Engineering at Smile Identity, co-founder of Arthena and Matroid, and YC Alumni.'
-    }
+    description="Lenod Wong's personal website. New York based Stanford ICME graduate"
   >
     <article className="post" id="index">
       <header>
@@ -23,8 +20,10 @@ const Index = () => (
       </header>
       <p>
         {' '}
-        Welcome to my website. Please feel free to read more{' '}
-        <Link to="/about">about me</Link>, or you can check out my{' '}
+        Welcome to my website. I am a senior fullstack web developer and blockchain developer.
+        I have +6 years of extensive experience in web development.{' '}
+        {/* <Link to="/about">about me</Link>, or  */}
+        You can check out my{' '}
         <Link to="/resume">resume</Link>, <Link to="/projects">projects</Link>,{' '}
         view <Link to="/stats">site statistics</Link>, or{' '}
         <Link to="/contact">contact</Link> me.
@@ -32,7 +31,7 @@ const Index = () => (
       <p>
         {' '}
         Source available{' '}
-        <a href="https://github.com/Leo-wong-crypto/new-portfolio">here</a>.
+        <a href="https://github.com/Leo-wong-crypto">here</a>.
       </p>
     </article>
   </Main>

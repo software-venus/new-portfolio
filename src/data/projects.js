@@ -2,9 +2,9 @@
 const data = [
   {
     title: 'Nearest Dollar',
-    subtitle: '2015 BVP Hackathon',
+    subtitle: '2018 BVP Hackathon',
     image: '/images/projects/nearestdollar.jpg',
-    date: '2015-11-20',
+    date: '2018-10-20',
     desc:
       'Built for a social impact hackathon. '
       + 'NearestDollar connected to your bank accounts, credit cards, '
