@@ -1,18 +1,15 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: 'Nearest Dollar',
-    subtitle: '2018 BVP Hackathon',
-    image: '/images/projects/nearestdollar.jpg',
+    title: 'Global Beauty',
+    subtitle: 'Global Beauty',
+    link: 'https://globalbeautyrank.com/',
+    image: '/images/projects/Integrated Stripe of global beauty ratings site.png',
     date: '2018-10-20',
-    desc:
-      'Built for a social impact hackathon. '
-      + 'NearestDollar connected to your bank accounts, credit cards, '
-      + 'or debit cards and rounded up your purchases to donate the balance to '
-      + 'the charity of your choice.',
+    desc: 'Integrated Stripe of global beauty ratings site.',
   },
   {
-    title: 'Harvest',
+    title: 'Data Rails',
     subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
     link: 'https://devpost.com/software/harvest',
     image: '/images/projects/harvest.jpg',
