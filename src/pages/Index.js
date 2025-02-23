@@ -13,7 +13,7 @@ const Index = () => (
           <h2>
             <Link to="/">About me</Link>
           </h2>
-          <p>
+          <p> 
             senior fullstack web developer, blockchain developer
           </p>
         </div>
