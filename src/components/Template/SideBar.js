@@ -14,7 +14,7 @@ const SideBar = () => (
       <header>
         <h2>Leonid Wong</h2>
         <p>
-          <a href="mailto:michael@mldangelo.com">loenid@wong.com</a>
+          <a href="mailto:contractsmart9@gmail.com">contractsmart9@gmail.com</a>
         </p>
       </header>
     </section>
@@ -23,12 +23,7 @@ const SideBar = () => (
       <h2>About</h2>
       <p>
         Hi, I&apos;m Leonid. I am a{' '}
-        <a href="https://icme.stanford.edu/">Stanford ICME</a> graduate, YC
-        alumnus, and the co-founder and CTO of{' '}
-        <a href="https://promptfoo.dev">Promptfoo</a>. Previously, I
-        was VP of Engineering at <a href="https://usesmileid.com">SmileID</a>,
-        co-founder and CTO of <a href="https://arthena.com">Arthena</a>, and
-        co-founded <a href="https://matroid.com">Matroid</a>.
+        <a href="https://www.ntu.edu.sg/">Nanyang Technology University</a> graduate, Senior fullstack web developer and blockchain developer.
       </p>
       <ul className="actions">
         <li>
@@ -37,7 +32,7 @@ const SideBar = () => (
               Learn More
             </Link>
           ) : (
-            <Link to="/about" className="button">
+            <Link to="/" className="button">
               About Me
             </Link>
           )}

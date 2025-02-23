@@ -1,47 +1,60 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: 'Nearest Dollar',
-    subtitle: '2015 BVP Hackathon',
-    image: '/images/projects/nearestdollar.jpg',
-    date: '2015-11-20',
-    desc:
-      'Built for a social impact hackathon. '
-      + 'NearestDollar connected to your bank accounts, credit cards, '
-      + 'or debit cards and rounded up your purchases to donate the balance to '
-      + 'the charity of your choice.',
+    title: 'Global Beauty',
+    subtitle: 'Global Beauty',
+    link: 'https://globalbeautyrank.com/',
+    image: '/images/projects/Integrated Stripe of global beauty ratings site.png',
+    date: '2018-10-20',
+    desc: 'Integrated Stripe of global beauty ratings site.',
   },
   {
-    title: 'Harvest',
-    subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
-    link: 'https://devpost.com/software/harvest',
-    image: '/images/projects/harvest.jpg',
-    date: '2015-09-20',
-    desc:
-      'Won ~ $7000 in prizes for an advanced, low cost monitoring solution '
-      + 'for crops. Harvest was designed to catch irrigation leaks, overwatering, '
-      + 'and nutrient deficiencies at an affordable price for the developing world.',
+    title: 'Data Rails',
+    subtitle: 'chart diagrams demo',
+    link: 'https://www.datarails.com/',
+    image: '/images/projects/chart diagrams demo.png',
+    date: '2019-09-20',
+    desc: 'chart diagrams demo',
   },
   {
-    title: 'Space Potato',
-    subtitle: 'A kickstarter funded potato powered weather balloon.',
-    link: 'http://www.spacepotato.org',
-    image: '/images/projects/spacepotato.jpg',
-    date: '2015-06-28',
-    desc:
-      'Launched a potato battery powered weather balloon with two cameras '
-      + 'and gps transponder. Resulting photos were published in a coffee table book. '
-      + 'You can email me for a copy.',
+    title: 'Crypto Spells',
+    subtitle: 'A Crypto Spells.',
+    link: 'https://en.cryptospells.jp/',
+    image: '/images/projects/Vue.js and Ruby integration third-party services.png',
+    date: '2019-06-28',
+    desc: 'Vue.js and Ruby integration third-party services',
   },
   {
-    title: 'Cat Detector',
-    subtitle: 'A convolutional neural network to classify cats! (and dogs)',
-    image: '/images/projects/catdetector.jpg',
-    date: '2015-05-15',
-    desc:
-      'Trained a convolutional neural network to classify between ~ 80 cats breeds. '
-      + 'Over 60,000 cats were classified before server bills made the project too expensive '
-      + 'to continue hosting.',
+    title: 'The Grint Golf APP',
+    subtitle: 'The Grint Golf APP',
+    link: 'https://thegrint.com/',
+    image: '/images/projects/TheGrint_Golf APP.png',
+    date: '2020-05-15',
+    desc: 'TheGrint_Golf APP',
+  },
+  {
+    title: 'Humans AI',
+    subtitle: 'Humans AI',
+    link: 'https://humans.ai/',
+    image: '/images/projects/Humans.ai platform using Next.js and TailwindCSS.png',
+    date: '2021-07-15',
+    desc: 'Humans.ai platform using Next.js and TailwindCSS',
+  },
+  {
+    title: 'Meniu Digital',
+    subtitle: 'Meniu Digital',
+    link: 'https://www.meniudigital.ro/',
+    image: '/images/projects/Digital Menu™.png',
+    date: '2023-11-28',
+    desc: 'Digital Menu™',
+  },
+  {
+    title: 'Dear Ella',
+    subtitle: 'Dear-ella XPLA Blockchain Ecosystem.',
+    link: 'https://dear-ella.c2x.world/en?',
+    image: '/images/projects/Dear-ella XPLA Blockchain Ecosystem.png',
+    date: '2023-04-28',
+    desc: 'Dear-ella XPLA Blockchain Ecosystem',
   },
 ];
 
