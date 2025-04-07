@@ -13,7 +13,7 @@ const Index = () => (
           <h2>
             <Link to="/">About me</Link>
           </h2>
-          <p
+          <p>
             senior fullstack web developer, blockchain developer
           </p>
         </div>
@@ -31,7 +31,7 @@ const Index = () => (
       <p>
         {' '}
         Source available{' '}
-        <a href="https://github.com/Leo-wong-crypto">here</a>.
+        <a href="https://github.com/software-venus">here</a>.
       </p>
     </article>
   </Main>

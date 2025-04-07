@@ -10,7 +10,7 @@ import { faEnvelope } from '@fortawesome/free-regular-svg-icons/faEnvelope';
 
 const data = [
   {
-    link: 'https://github.com/leo-wong-crypto',
+    link: 'https://github.com/software-venus',
     label: 'Github',
     icon: faGithub,
   },
